@@ -671,7 +671,7 @@ def coreloop():
                         w = stdscr.getkey()
                         if w == '\n' or w == '\r':
                             s = ''.join(writtentext)
-                            sb_append(str(dt.datetime.now()), s, score)
+                            sb_append(str(dt.datetime.now())[:10], s, score)
                             mode = 0
                             
                         elif w == 'KEY_BACKSPACE':
