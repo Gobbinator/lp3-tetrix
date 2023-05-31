@@ -1,0 +1,3 @@
+Afisare terminal (curses)
+implementare miscare si coliziune
+meniu de game-over

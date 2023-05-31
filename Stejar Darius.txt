@@ -1,0 +1,4 @@
+Acces i/o, salvare si afisare scor
+Mapele de rotatie
+Definirea tetrominourilor
+
